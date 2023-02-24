@@ -1,3 +1,9 @@
+h1 {
+    font-weight: bold;
+    font-size: 30px;
+    color: brown    ;
+}
+
 .whap-button {
     position: fixed;
     right: 15px;
